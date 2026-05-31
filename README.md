@@ -21,7 +21,7 @@
   <a href="https://eg.linkedin.com/in/peter-youssef-690670388"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<h3>⚡️ PeteR YousseF – Backend Developer & Algorithm Builder ⚡️</h3>
+<h3>⚡️ PeteR YousseF – Backend Developer & Algorithm Engineer ⚡️</h3>
 <p>
   👋 Hi, I'm <strong>PeteR YousseF</strong>.<br/>
   💻 Backend developer specialized in <strong>Go</strong> with the <strong>Gin</strong> framework, and deep knowledge of <strong>C++</strong>, data structures, and algorithms.<br/>
