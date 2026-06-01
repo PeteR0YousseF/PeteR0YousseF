@@ -1,6 +1,3 @@
-<!-- PeteR YousseF's GitHub Profile README -->
-<!-- Replace "PeteRYousseF" with your actual GitHub username in all links -->
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="Header" />
 </p>
@@ -16,9 +13,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 
 <p>
-  📫 Get in touch:<br/>
-  <a href="mailto:p3terjio@gmail.com?subject=[GitHub]%20Contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  📫 Get in touch :<br/>
+  <a href="https://www.facebook.com/peter00youssef"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://eg.linkedin.com/in/peter-youssef-690670388"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:p3terjio@gmail.com?subject=[GitHub]%20Contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <h3>⚡️ PeteR YousseF – Backend Developer & Algorithm Engineer ⚡️</h3>
