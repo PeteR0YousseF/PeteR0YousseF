@@ -1,9 +1,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="Header" />
 </p>
-
 <div align="center">
-  <h1>💥 🅿🅴🆃🅴🆁 🆈🅾🆄🆂🆂🅴🅵 💥</h1>
+  <img src="https://raw.githubusercontent.com/PeteR0YousseF/PeteR0YousseF/main/PETER-YOUSSEF-6-1-2026.gif" alt="PETER YOUSSEF 3D" width="60%" />
 </div>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
